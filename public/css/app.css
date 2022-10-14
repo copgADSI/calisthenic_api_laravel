@@ -1,0 +1,10 @@
+:root{
+    --primary_color_btn : #042331;
+    --primary_white: #ffff
+}
+
+
+#btn_primary{
+    background: var(--primary_color_btn);
+    color: var(--primary_white);
+}
